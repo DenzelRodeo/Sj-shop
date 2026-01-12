@@ -19,6 +19,7 @@ Responsive Design : Interface totalement adaptée aux mobiles, tablettes et ordi
 Système de Paiement Flexible : Intégration prête pour les passerelles de paiement modernes.
 
 🛠️ Stack Technique
+
 Backend : [PHP / Laravel ou Symfony - À compléter selon ton projet]
 
 Frontend : [JavaScript / Blade / Vue.js - À compléter]
@@ -26,3 +27,12 @@ Frontend : [JavaScript / Blade / Vue.js - À compléter]
 Base de données : MySQL (Schéma relationnel optimisé)
 
 Outils : Git, Composer, NPM
+
+Backend : [PHP / Laravel]
+
+Frontend : [JavaScript / Blade / ]
+
+Base de données : MySQL (Schéma relationnel optimisé)
+
+Outils : Git, Composer, 
+
